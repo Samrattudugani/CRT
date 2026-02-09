@@ -28,7 +28,7 @@
 #     r = r*10 + n % 10
 #     n//=10
 # print(r)
-#### 5.COUNT ODD AND EVEN dS ######################
+#### 5.COUNT ODD AND EVEN digits ######################
 # n = input()
 # o = 0
 # e = 0
@@ -38,10 +38,10 @@
 #     else:
 #         o += 1
 # print(e,o)
-#### 6.Print Largl number in the d #######
+#### 6.Print Large number in the digits #######
 # n = input()
 # print(max(n))
-# ##########
+# ###############
 # n = int(input())
 # l = 0
 # while n > 0:
